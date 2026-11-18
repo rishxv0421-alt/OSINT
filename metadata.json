@@ -1,0 +1,8 @@
+{
+  "name": "Remix RA Cyber OSINT \u0026 Bot Command Center",
+  "description": "Live Telegram Cyber Intelligence Bot (@RISXAVHAXXKBOT) \u0026 Advanced Number OSINT Recon Console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
